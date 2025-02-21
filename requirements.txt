@@ -1,5 +1,4 @@
 requests
 pandas
 numpy
-python-telegram-bot
-gunicorn
+python-telegram-bot==20.0
