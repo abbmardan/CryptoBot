@@ -1,2 +1,2 @@
-worker: python your_script.py
+worker: python cryptobot.py
 
