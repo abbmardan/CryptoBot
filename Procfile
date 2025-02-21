@@ -1,2 +1,2 @@
-worker: python cryptobot.py
+worker: python bot.py
 
